@@ -21,10 +21,10 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="topics/hardware/README.md"><img src="data/images/png/hardware.png" width="65px;" height="65px;" alt="DevOps" /><br /><b>Железо</b></a></td>
-      <td align="center"><a href="topics/git/README.md"><img src="data/images/png/network.png" width="65px;" height="65px;" alt="Git"/><br /><b>Сети</b></a></td>
-      <td align="center"><a href="#network"><img src="data/images/png/git.png" width="65px;" height="65px;" alt="Network"/><br /><b>Git</b></a></td>
-      <td align="center"><a href="#hardware"><img src="data/images/png/linux.png" width="65px;" height="65px;" alt="Hardware"/><br /><b>linux</b></a></td>
+      <td align="center" valign="bottom"><a href="topics/hardware/README.md"><img src="data/images/png/hardware.png" width="65" alt="DevOps" /><br /><b>Железо</b></a></td>
+      <td align="center" valign="bottom"><a href="topics/git/README.md"><img src="data/images/png/network.png" width="65" alt="Git"/><br /><b>Сети</b></a></td>
+      <td align="center" valign="bottom"><a href="#network"><img src="data/images/png/git.png" width="65" alt="Network"/><br /><b>Git</b></a></td>
+      <td align="center" valign="bottom"><a href="#hardware"><img src="data/images/png/linux.png" width="65" alt="Hardware"/><br /><b>linux</b></a></td>
       <!-- <td align="center"><a href="topics/kubernetes/README.md"><img src="images/kubernetes.png" width="75px;" height="75px;" alt="kubernetes"/><br /><b>Kubernetes</b></a></td> -->
     </tr>
   </table>
