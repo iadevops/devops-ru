@@ -6,13 +6,13 @@
 
 <table>
   <tr>
-    <td><a href="#"><img align="absmiddle" src="data/images/svg/devops.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>DevOps</b></td>
+    <td align="left"><a href="#"><img align="absmiddle" src="data/images/svg/devops.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>DevOps</b></td>
   </tr>
   <tr>
-    <td><a href="#"><img align="absmiddle" src="data/images/svg/dev.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>Разработчики</b></td>
+    <td align="left"><a href="#"><img align="absmiddle" src="data/images/svg/dev.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>Разработчики</b></td>
   </tr>
   <tr>
-    <td align="center"><a href="#"><img align="absmiddle" src="data/images/svg/vibe.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>Вайб-кодеры</b></td>
+    <td align="left"><a href="#"><img align="absmiddle" src="data/images/svg/vibe.svg" width="20" alt="Фиолетовый круг" hspace="10" />&nbsp;<b>Вайб-кодеры</b></td>
   </tr>
 </table>
 
