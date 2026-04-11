@@ -58,5 +58,7 @@
 
 ## Двоичная система счисления
 
+...В процессе ...
+
 Источник:
 1. [Источник 1](https://l.threads.com/?u=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2591%25D0%25B8%25D1%2582&e=AT4fM_spjBuDAtXsoeZxj_tq2sJKcF1dcia1sThwgUAXEmK7Tt9PC2Bch9nDH2-rjCoOr1vxplXB14uM1-FHvQHWWj_Og-iEgePWwoQjV3dIbeo4WEdl4bTk4n2YvdLmDws1DGg)
