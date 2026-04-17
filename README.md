@@ -42,8 +42,14 @@
 
 ## Новости
 
+### Day 2
+##### Добавлено 18/04/26
+
+Материал:
+- Черновой [архитектуру linux](/topics/linux/subtopics/architecture.linux.md)
+
+
 ### Day 1
-##### Добавлено 11/04/26
 
 Материал:
 - Добавила определения [linux, gnu](/topics/linux/README.md#что-такое-linux)
@@ -51,7 +57,3 @@
 - [`sudo`](/topics/linux/README.md#sudo)
 - файл [`etc/sudoers`](/topics/linux/README.md#файл-etcsudoers-45)
 
-Источники указала\
-Добавила градацию важности для материала
-
-Как идея? ... Меня кто-нибудь слышит?

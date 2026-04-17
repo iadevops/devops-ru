@@ -2,6 +2,24 @@
 <img src="../../data/images/png/hardware.png" width="75px;" height="75px;" alt="DevOps" /><br /><b>Железо</b>
 </div>
 
+
+<details>
+  <summary>📌 [Нюансы] 🟡</summary>
+
+Системы счисления, единицы, логику знать нужно, чтобы:
+- понять работу с памятью, протоколы, адресами;
+- используется в сетях, цветах, памяти;
+- permissions в Linux: chmod 755 file, где 7 = 4 + 2 + 1 = rwx;
+- иногда встречается 0xFF;
+- булева логика: if [ -f file ] && [ -r file ];
+- в CI/CD условиях пайплайнов;
+- kuber: selectors/conditions;
+- в самом популярном источнике по devops есть вопросы по этим темам;
+</details>
+</br>
+
+
+
 ### Что такое бит?
 
 ### Двоичная система счисления
@@ -59,6 +77,14 @@
 ## Двоичная система счисления
 
 ...В процессе ...
+
+
+##
+##
+##
+##
+
+*****
 
 Источник:
 1. [Источник 1](https://l.threads.com/?u=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2591%25D0%25B8%25D1%2582&e=AT4fM_spjBuDAtXsoeZxj_tq2sJKcF1dcia1sThwgUAXEmK7Tt9PC2Bch9nDH2-rjCoOr1vxplXB14uM1-FHvQHWWj_Og-iEgePWwoQjV3dIbeo4WEdl4bTk4n2YvdLmDws1DGg)
